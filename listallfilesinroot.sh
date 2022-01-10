@@ -1,3 +1,5 @@
 #!/bin/bash
-ihi
-ls -l /root/
+hello
+devOps
+
+Ls -l /root/
